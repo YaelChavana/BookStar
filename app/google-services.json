@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559181019061",
+    "project_id": "bookstar-19af0",
+    "storage_bucket": "bookstar-19af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559181019061:android:6f80286f90db929fbf4bfc",
+        "android_client_info": {
+          "package_name": "com.uttn.bookstar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwK60Rq2Z2LUg1uZSkjeKBUumWib3sORw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
